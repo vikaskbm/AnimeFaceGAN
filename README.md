@@ -117,3 +117,6 @@ Let's define a `fit` function to train the discriminator and generator in tandem
 
 <img src="https://i.imgur.com/6NMdO9u.png" style="max-width:420px; margin-bottom:32px"/>
 
+
+
+# Necessary modules required to install in order to run this notebook are in *requirements.txt*
